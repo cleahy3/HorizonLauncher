@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HorizonLauncher</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_apps_list">AppsListActivity</string>
 </resources>
