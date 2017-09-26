@@ -1,13 +1,22 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <ListView
-        android:id="@+id/apps_list"
+    <SearchView
+        android:id="@+id/search_app_bar"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
-    </ListView>
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:queryHint="Search for ann app" />
+
+    <GridView
+        android:id="@+id/apps_list"
+        style="@style/Widget.AppCompat.ListView"
+        android:layout_width="match_parent"
+        android:layout_height="448dp"
+        android:numColumns="5"></GridView>
 
 </LinearLayout>

@@ -10,8 +10,9 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.AdapterView;
 import android.widget.ImageView;
-import android.widget.ListView;
+import android.widget.GridView;
 import android.widget.TextView;
+import android.widget.SearchView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +25,7 @@ public class AppsListActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_apps_list);
         loadApps();
-        loadListView();
+        loadGridView();
         addClickListener();
     }
     private PackageManager manager;
@@ -45,10 +46,12 @@ public class AppsListActivity extends Activity {
             apps.add(app);
         }
     }
+    private void onTextChange() {
 
-    private ListView list;
-    private void loadListView(){
-        list = (ListView)findViewById(R.id.apps_list);
+    }
+    private GridView list;
+    private void loadGridView(){
+        list = (GridView)findViewById(R.id.apps_list);
         ArrayAdapter<AppDetail> adapter = new ArrayAdapter<AppDetail>(this,
                 R.layout.list_item,
                 apps) {
@@ -60,8 +63,20 @@ public class AppsListActivity extends Activity {
                 ImageView appIcon = (ImageView)convertView.findViewById(R.id.item_app_icon);
                 appIcon.setImageDrawable(apps.get(position).icon);
 
-
+                SearchView search = (SearchView)convertView.findViewById(R.id.search_app_bar);
                 TextView appName = (TextView)convertView.findViewById(R.id.item_app_name);
+                search.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+
+                    @Override
+                    public boolean onQueryTextSubmit(String s) {
+                        return false;
+                    }
+
+                    @Override
+                    public boolean onQueryTextChange(String s) {
+                        return false;
+                    }
+                });
                 appName.setText(apps.get(position).name);
 
                 return convertView;
