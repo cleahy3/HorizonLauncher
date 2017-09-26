@@ -4,5 +4,6 @@ import android.graphics.drawable.Drawable;
 
 class AppDetail {
     CharSequence name;
+    CharSequence appName;
     Drawable icon;
 }

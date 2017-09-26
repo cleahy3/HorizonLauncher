@@ -40,6 +40,7 @@ public class AppsListActivity extends Activity {
         for(ResolveInfo ri:availableActivities) {
             AppDetail app = new AppDetail();
             app.name = ri.loadLabel(manager);
+            app.appName = ri.activityInfo.packageName;
             app.icon = ri.loadIcon(manager);
             apps.add(app);
         }
@@ -73,8 +74,8 @@ public class AppsListActivity extends Activity {
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> av, View v, int pos,
                                     long id) {
-                    Intent i = manager.getLaunchIntentForPackage(apps.get(pos).name.toString());
-                    AppsListActivity.super.startActivityForResult(i, (int) id);
+                    Intent i = manager.getLaunchIntentForPackage(apps.get(pos).appName.toString());
+                    AppsListActivity.super.startActivity(i);
             }
         });
     }
