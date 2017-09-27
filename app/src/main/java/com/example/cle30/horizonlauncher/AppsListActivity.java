@@ -13,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.SearchView;
+import android.widget.Filter;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,6 +28,7 @@ public class AppsListActivity extends Activity {
         loadApps();
         loadGridView();
         addClickListener();
+        setSearchListener();
     }
     private PackageManager manager;
     private List<AppDetail> apps;
@@ -46,43 +48,57 @@ public class AppsListActivity extends Activity {
             apps.add(app);
         }
     }
-    private void onTextChange() {
+    private void setSearchListener() {
+        SearchView search = (SearchView)findViewById(R.id.search_app_bar);
 
+        search.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            private String searchParams;
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+                setView(s);
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                setView(s);
+                return false;
+            }
+        });
     }
-    private GridView list;
-    private void loadGridView(){
+
+    private void setView (final String s) {
         list = (GridView)findViewById(R.id.apps_list);
-        ArrayAdapter<AppDetail> adapter = new ArrayAdapter<AppDetail>(this,
+        final ArrayAdapter<AppDetail> adapter = new ArrayAdapter<AppDetail>(this,
                 R.layout.list_item,
-                apps) {
+                apps){
             @Override
             public View getView(int position, View convertView, ViewGroup parent) {
+
                 if(convertView == null){
                     convertView = getLayoutInflater().inflate(R.layout.list_item, null);
                 }
+
                 ImageView appIcon = (ImageView)convertView.findViewById(R.id.item_app_icon);
                 appIcon.setImageDrawable(apps.get(position).icon);
 
-                SearchView search = (SearchView)convertView.findViewById(R.id.search_app_bar);
                 TextView appName = (TextView)convertView.findViewById(R.id.item_app_name);
-                search.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-
-                    @Override
-                    public boolean onQueryTextSubmit(String s) {
-                        return false;
-                    }
-
-                    @Override
-                    public boolean onQueryTextChange(String s) {
-                        return false;
-                    }
-                });
                 appName.setText(apps.get(position).name);
 
                 return convertView;
             }
         };
+
+        if(s != "main") {
+            adapter.getFilter().filter(s);
+        }
+
         list.setAdapter(adapter);
+    }
+
+    private GridView list;
+    private void loadGridView(){
+        setView("main");
     }
 
     private void addClickListener(){
