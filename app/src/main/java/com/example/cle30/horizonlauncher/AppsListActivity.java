@@ -74,18 +74,68 @@ public class AppsListActivity extends Activity {
                 apps){
             @Override
             public View getView(int position, View convertView, ViewGroup parent) {
+                if(apps.size() > position) {
+                    if (convertView == null) {
+                        convertView = getLayoutInflater().inflate(R.layout.list_item, null);
+                    }
 
-                if(convertView == null){
-                    convertView = getLayoutInflater().inflate(R.layout.list_item, null);
+                    ImageView appIcon = (ImageView) convertView.findViewById(R.id.item_app_icon);
+                    appIcon.setImageDrawable(apps.get(position).icon);
+
+                    TextView appName = (TextView) convertView.findViewById(R.id.item_app_name);
+                    appName.setText(apps.get(position).name);
+
+
+                }
+                return convertView;
+            }
+
+            public Filter getFilter () {
+                AppFilter appFilter = new AppFilter();
+                return appFilter;
+            }
+
+            class AppFilter extends Filter {
+                @Override
+                protected void publishResults(CharSequence constraint,
+                                              FilterResults results) {
+
+                    // Now we have to inform the adapter about the new list filtered
+                    if (results.count == 0) {
+                        loadApps();
+                        notifyDataSetInvalidated();
+                    }
+                    else {
+                        apps = (List<AppDetail>) results.values;
+                        notifyDataSetChanged();
+                    }
                 }
 
-                ImageView appIcon = (ImageView)convertView.findViewById(R.id.item_app_icon);
-                appIcon.setImageDrawable(apps.get(position).icon);
+                @Override
+                protected FilterResults performFiltering(CharSequence constraint) {
+                    FilterResults results = new FilterResults();
+                    // We implement here the filter logic
+                    if (constraint == null || constraint.length() == 0) {
+                        // No filter implemented we return all the list
+                        results.values = apps;
+                        results.count = apps.size();
+                    }
+                    else {
+                        // We perform filtering operation
+                        List<AppDetail> nAppList = new ArrayList<AppDetail>();
 
-                TextView appName = (TextView)convertView.findViewById(R.id.item_app_name);
-                appName.setText(apps.get(position).name);
+                        for (AppDetail a : apps ) {
+                            if (a.name.toString().toUpperCase()
+                                    .startsWith(constraint.toString().toUpperCase())) {
+                                nAppList.add(a);
+                            };
+                        }
 
-                return convertView;
+                        results.values = nAppList;
+                        results.count = nAppList.size();
+                    }
+                    return results;
+                }
             }
         };
 
