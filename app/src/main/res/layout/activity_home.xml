@@ -10,12 +10,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
         android:layout_alignParentStart="true"
-        android:textColor="#FF9D0D"
+        android:background="@drawable/mr_group_collapse"
+        android:backgroundTint="#FFFFFF"
         android:onClick="showApps"
-        android:text="Show Apps" />
+        android:textColor="#FF9D0D"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 </RelativeLayout>
