@@ -81,9 +81,6 @@ public class AppsListActivity extends Activity {
 
                     ImageView appIcon = (ImageView) convertView.findViewById(R.id.item_app_icon);
                     appIcon.setImageDrawable(apps.get(position).icon);
-                    appIcon.setOnDragListener(View.OnDragListener() {
-                        
-                    });
                     TextView appName = (TextView) convertView.findViewById(R.id.item_app_name);
                     appName.setText(apps.get(position).name);
 
