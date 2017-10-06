@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

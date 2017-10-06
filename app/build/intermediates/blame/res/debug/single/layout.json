@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/activity_apps_list.xml",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/layout/activity_apps_list.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/cpe18/.android/build-cache/742cc90b96175f88d4eb826e365c9b0da656f895/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/cpe18/.android/build-cache/742cc90b96175f88d4eb826e365c9b0da656f895/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/cpe18/.android/build-cache/742cc90b96175f88d4eb826e365c9b0da656f895/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/cpe18/.android/build-cache/742cc90b96175f88d4eb826e365c9b0da656f895/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    }
+]

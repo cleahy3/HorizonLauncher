@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/cpe18/.android/build-cache/dd1ad08f24d3072586a97d51c29ae6a0de9ebeda/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/cpe18/.android/build-cache/dd1ad08f24d3072586a97d51c29ae6a0de9ebeda/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/cpe18/.android/build-cache/dd1ad08f24d3072586a97d51c29ae6a0de9ebeda/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

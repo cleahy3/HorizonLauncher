@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

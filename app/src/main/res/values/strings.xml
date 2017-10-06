@@ -3,4 +3,6 @@
     <string name="title_activity_home">Horizon</string>
     <string name="title_activity_apps_list">AppsListActivity</string>
     <string name="welcome">Horizon Launcher!</string>
+    <string name="appwidget_text">Super Important Work Stuff</string>
+    <string name="add_widget">Add widget</string>
 </resources>

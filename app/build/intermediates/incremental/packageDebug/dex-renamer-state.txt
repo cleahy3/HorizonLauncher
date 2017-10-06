@@ -1,0 +1,7 @@
+#Fri Oct 06 16:35:56 BST 2017
+base.0=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d474a91c518c543eed800a7e9c25c3e481daeaab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_83a09e4176182af0edd6d6e8b66c93e34d6ef653/classes.dex
+base.1=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_83a09e4176182af0edd6d6e8b66c93e34d6ef653
+file.0=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d474a91c518c543eed800a7e9c25c3e481daeaab/classes.dex

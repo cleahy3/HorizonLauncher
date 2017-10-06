@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/mipmap-xhdpi/search.png",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/mipmap-xhdpi/search.png"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/mipmap-xhdpi/icon.png",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/mipmap-xhdpi/icon.png"
+    }
+]
