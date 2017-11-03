@@ -216,16 +216,16 @@
         "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-hdpi-v4/quantum_ic_replay_white_24.png"
     },
     {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cast_ic_stop_circle_filled_grey600.png",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-hdpi-v4/cast_ic_stop_circle_filled_grey600.png"
+    },
+    {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_forward_10_white_24.png",
         "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-hdpi-v4/quantum_ic_forward_10_white_24.png"
     },
     {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_bigtop_updates_white_24.png",
         "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-hdpi-v4/quantum_ic_bigtop_updates_white_24.png"
-    },
-    {
-        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cast_ic_stop_circle_filled_grey600.png",
-        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-hdpi-v4/cast_ic_stop_circle_filled_grey600.png"
     },
     {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_pause_circle_filled_white_36.png",

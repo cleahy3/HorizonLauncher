@@ -64,6 +64,10 @@
         "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/layout/select_dialog_item_material.xml"
     },
     {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/Users/cpe18/Documents/HorizonLauncher/app/src/main/res/layout/activity_second.xml"
+    },
+    {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/layout/design_navigation_menu.xml"
     },

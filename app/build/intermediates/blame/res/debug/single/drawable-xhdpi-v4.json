@@ -876,12 +876,12 @@
         "source": "/Users/cpe18/.android/build-cache/443f483a5683d6e54b196805efeea0397997614c/output/res/drawable-xhdpi-v4/ic_mr_button_connected_17_light.png"
     },
     {
-        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/design_ic_visibility_off.png",
         "source": "/Users/cpe18/.android/build-cache/036f3f6423ed3f0d77b793f53b4ae79176520116/output/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_vol_type_speaker_dark.png",

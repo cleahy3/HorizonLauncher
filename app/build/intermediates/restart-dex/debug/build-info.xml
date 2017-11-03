@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1507304153643"
+    timestamp="1509725040668"
     token="4336415617021987454"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -18,52 +18,25 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="31" />
+        duration="10" />
     <task
         name="verifier"
-        duration="22" />
+        duration="6" />
 
-    <artifact
-        location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/cpe18/Documents/HorizonLauncher/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1507303886440"
+        timestamp="1509719930861"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
@@ -71,7 +44,16 @@
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -79,26 +61,20 @@
         <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1507304153643"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/cpe18/Documents/HorizonLauncher/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1509725040668"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

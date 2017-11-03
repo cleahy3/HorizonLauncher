@@ -1,4 +1,4 @@
-#Fri Oct 06 16:35:56 BST 2017
+#Fri Oct 20 14:55:14 BST 2017
 base.0=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d474a91c518c543eed800a7e9c25c3e481daeaab
 renamed.1=classes.dex
 renamed.0=classes2.dex

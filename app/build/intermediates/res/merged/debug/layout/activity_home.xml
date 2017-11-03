@@ -34,16 +34,16 @@
         android:id="@+id/editText4"
         android:layout_width="wrap_content"
         android:layout_height="30pt"
-        android:layout_alignBottom="@+id/imageView"
-        android:layout_marginLeft="22dp"
-        android:layout_marginStart="22dp"
-        android:layout_toEndOf="@+id/imageView"
-        android:layout_toRightOf="@+id/imageView"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp"
         android:background="#00880000"
         android:ems="10"
         android:inputType="textPersonName"
         android:scrollHorizontally="false"
-        android:text="Sbt: Console Peasant for life" />
+        android:text="Sbt: Console Peasant for life"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView" />
 
     <ImageView
         android:id="@+id/imageView2"
