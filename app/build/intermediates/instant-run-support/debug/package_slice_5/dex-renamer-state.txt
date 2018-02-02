@@ -1,4 +1,4 @@
-#Fri Nov 03 16:04:02 GMT 2017
-base.0=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+#Fri Feb 02 15:59:48 GMT 2018
+base.0=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

@@ -13,7 +13,7 @@
         android:label="Tests for com.example.cle30.horizonlauncher"
         android:targetPackage="com.example.cle30.horizonlauncher" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

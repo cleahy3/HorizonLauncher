@@ -40,20 +40,20 @@
         "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_replay_30_white_36.png",
-        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-xxxhdpi-v4/quantum_ic_replay_30_white_36.png"
-    },
-    {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_36.png",
         "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_36.png"
     },
     {
-        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/powered_by_google_light.png",
-        "source": "/Users/cpe18/.android/build-cache/742cc90b96175f88d4eb826e365c9b0da656f895/output/res/drawable-xxxhdpi-v4/powered_by_google_light.png"
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_replay_30_white_36.png",
+        "source": "/Users/cpe18/.android/build-cache/5b515d916287167f7d9479f6af3baf10a550e1d8/output/res/drawable-xxxhdpi-v4/quantum_ic_replay_30_white_36.png"
     },
     {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
         "source": "/Users/cpe18/.android/build-cache/9a956761961e749c8929f3bd602388f0988c020f/output/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/powered_by_google_light.png",
+        "source": "/Users/cpe18/.android/build-cache/742cc90b96175f88d4eb826e365c9b0da656f895/output/res/drawable-xxxhdpi-v4/powered_by_google_light.png"
     },
     {
         "merged": "/Users/cpe18/Documents/HorizonLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_replay_30_white_24.png",
